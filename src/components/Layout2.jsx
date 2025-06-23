@@ -3,7 +3,7 @@ import NavComponent from "./NavComponent";
 import FooterComponent from "./FooterComponent";
 import { Outlet } from "react-router-dom";
 
-const Layout2 = (props) => {
+const Layout2 = () => {
   return (
     <>
       <FooterComponent />
